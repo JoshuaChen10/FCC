@@ -1,0 +1,20 @@
+# values within python print statements must be seperated by commas
+# print(value1, value2, value3, ...)
+
+# print can take in multiple arguments
+# print(value1, value2, value3, ..., sep='separator', end='end', file=sys.stdout, flush=False)
+
+# caesar cipher locates the character in a string and compares it to a given aplhabet,
+# in turn shiting the string value by the amount of the key.
+
+# Assigning the given cipher to an empty string will allow for full word formatted
+# output as opposed to single letter output.
+
+# by using += you can create a more effective method of data output and manipulation.
+# This symbol is known as the addition assignment operator.
+#  This allows a user to add new characters to the encrypted text bank other than alphabetical characters.
+
+# to prevnt additional execution of a for loop, you can utilize an else statement.
+
+# holding down the shift key and moving around text with the arrows allows
+# you to highlight text without using the mouse.
